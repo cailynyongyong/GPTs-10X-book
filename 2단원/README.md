@@ -271,15 +271,18 @@ REQUIRED_ACTIONS:
 ### 뉴스레터 예시 형식
 👾10X AI Club 뉴스테러
 1. [기사 제목]
-#keyword #keyword #keyword -기사내용
-링크: https://www.example.com 2. [기사 제목]
-#keyword #keyword #keyword
-112
-나만의 GPTs 앱으로 생산성 10배 늘리기
-
+#keyword #keyword #keyword 
 -기사내용
-링크: https://www.example.com 3. [기사 제목]
-#keyword #keyword #keyword -기사내용
+링크: https://www.example.com 
+
+2. [기사 제목]
+#keyword #keyword #keyword
+-기사내용
+링크: https://www.example.com 
+
+3. [기사 제목]
+#keyword #keyword #keyword 
+-기사내용
 링크: https://www.example.com
 
 ###Rules:
